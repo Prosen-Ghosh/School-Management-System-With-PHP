@@ -1,6 +1,6 @@
 # School-Management-System
 ### Welcome to School-Management-System Git Page.
-This Web Application developed using php,ajax,jquery.Custom Lay Architecture concepts provided by  [namespaceahr](https://github.com/namespaceahr/).
+This Web Application developed using php,ajax,jquery.Custom Lay Architecture
 
 ###*Admin features
 * * modify his admin  information with picture.
@@ -52,21 +52,17 @@ This Web Application developed using php,ajax,jquery.Custom Lay Architecture con
 * *see his/her student’s payment.
 
 ### Authors and Contributors
-### 1. Ahmed Habibullah Rifat (Namespaceahr)
+
+### 1. Prosen Ghosh
+* [Prosen Ghosh GitHub](https://github.com/Prosen-Ghosh)
+* [Prosen Ghosh Facebook](https://www.facebook.com/prosenghosh25)
+
+### 2. Ahmed Habibullah Rifat (Namespaceahr)
 * [Namespaceahr GitHub](https://github.com/namespaceahr/)
 * [Namespace ahr Facebook](https://www.facebook.com/namespaceahr)
-
-### 2. Prosen Ghosh
-
-* [Prosen Ghosh Facebook](https://www.facebook.com/prosenghosh25)
 
 ### 3. Khurshedul Barid
 
 * [Khurshedul Barid Facebook](https://www.facebook.com/md.barid)
 
-
-
-
-### Support or Contact
-* [Namespaceahr Site](https://www.namespaceahr.com/)
 # School-Management-System-With-PHP
