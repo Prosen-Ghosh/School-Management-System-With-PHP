@@ -12,7 +12,7 @@ $result=mysql_query($sql);
 $count=mysql_num_rows($result);
 $type=mysql_fetch_array($result);
 $control=$type['usertype'];
-echo $control;
+//echo $control;
 
 if($count!=1 || !isset($control)){
     header("Location:../index.php?login=false");

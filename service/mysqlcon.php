@@ -2,7 +2,7 @@
 session_start();
 $host="localhost";
 $username="root";
-$password="";
+$password="root";
 $db_name="schoolmanagementsystemdb";
 $link=mysql_connect("$host", "$username", "$password")or die("Cannot Connect");
 mysql_select_db("$db_name")or die("Cannot Select DB");
